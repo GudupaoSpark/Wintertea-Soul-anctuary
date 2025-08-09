@@ -1,0 +1,57 @@
+{
+  "header": {
+    "title": "Wintertea Soul Sanctuary",
+    "about": "About Us",
+    "services": "Services",
+    "blog": "Blog",
+    "contact": "Contact Us"
+  },
+  "footer": {
+    "slogan": "A warm place for every soul",
+    "quickLinksTitle": "Quick Links",
+    "friendlyLinks": "Friendly Links",
+    "contactTitle": "Contact Info",
+    "address": "Address: Hong Kong",
+    "links": [
+      { "name": "Partner A", "url": "#" },
+      { "name": "Partner B", "url": "#" },
+      { "name": "Community C", "url": "#" }
+    ]
+  },
+  "home": {
+    "heroTitle": "Find Your Inner Peace",
+    "heroSubtitle": "A sanctuary for your soul, offering guidance and support on your journey to well-being.",
+    "ctaButton": "Learn More",
+    "welcomeTitle": "Welcome to Your Warm Spiritual Home",
+    "welcomeDescription": "Here, every story is heard and every emotion is understood. We believe everyone deserves inner peace and happiness. Let us accompany you through every stage of life, finding your light and hope.",
+    "whyChooseUs": "About Us",
+    "whyChooseUsSubtitle": "We provide a professional, warm, and safe environment where everyone can find their own peace",
+    "ctaTitle": "Ready to Begin Your Healing Journey?",
+    "ctaSubtitle": "Don't face difficulties alone - let us be your strongest support",
+    "bookConsultation": "Book Consultation Now",
+    "learnMore": "Learn More About Our Services"
+  },
+  "hello": "Hello",
+  "about": {
+    "title": "About Wintertea Soul Sanctuary",
+    "mission": {
+      "title": "Our Mission",
+      "content": "We are dedicated to providing a safe and nurturing space for mental health and spiritual well-being. Our sanctuary offers professional guidance and support for those seeking inner peace and emotional healing."
+    },
+    "vision": {
+      "title": "Our Vision", 
+      "content": "To create a world where everyone has access to mental health resources and feels empowered to seek help. We believe in the power of community, understanding, and professional care in the journey toward wellness."
+    },
+    "values": {
+      "title": "Our Values",
+      "compassion": "Compassion and empathy",
+      "professional": "Professional excellence", 
+      "confidentiality": "Confidentiality and trust",
+      "inclusive": "Inclusive and welcoming environment"
+    },
+    "team": {
+      "title": "Our Team",
+      "content": "Our team consists of licensed mental health professionals, counselors, and support staff who are passionate about helping others. We bring together diverse backgrounds and specialties to serve our community better."
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "header": {
+    "title": "冬瓜的精神病院",
+    "about": "關於我們",
+    "services": "服務項目",
+    "blog": "文章分享",
+    "contact": "聯絡我們"
+  },
+  "footer": {
+    "slogan": "A warm place for every soul",
+    "quickLinksTitle": "快速連結",
+    "friendlyLinks": "友情連結",
+    "contactTitle": "聯絡資訊",
+    "address": "地址: 香港",
+    "links": [
+      { "name": "合作夥伴 A", "url": "#" },
+      { "name": "合作夥伴 B", "url": "#" },
+      { "name": "相關社群 C", "url": "#" }
+    ]
+  },
+  "home": {
+    "heroTitle": "尋找你內心的平靜",
+    "heroSubtitle": "一個為你靈魂而設的庇護所，在你的健康之旅上提供指導和支持。",
+    "ctaButton": "了解更多",
+    "welcomeTitle": "歡迎來到溫暖的心靈家園",
+    "welcomeDescription": "在這裡，每一個故事都被傾聽，每一份情感都被理解。我們相信，每個人都值得擁有內心的平靜與快樂。讓我們陪伴您走過人生的每一個階段，找到屬於您的光明與希望。",
+    "whyChooseUs": "關於我們",
+    "whyChooseUsSubtitle": "我們提供專業、溫暖且安全的環境，讓每個人都能找到屬於自己的平靜",
+    "ctaTitle": "準備好開始您的療癒之旅了嗎？",
+    "ctaSubtitle": "不要讓困難獨自承受，讓我們成為您最堅實的後盾",
+    "bookConsultation": "立即預約諮詢",
+    "learnMore": "了解更多服務"
+  },
+  "hello": "哈囉",
+  "about": {
+    "title": "關於冬瓜的精神病院",
+    "mission": {
+      "title": "我們的使命",
+      "content": "我們致力於為心理健康和精神福祉提供一個安全且充滿關愛的空間。我們的庇護所為那些尋求內心平靜和情感療癒的人提供專業指導和支持。"
+    },
+    "vision": {
+      "title": "我們的願景",
+      "content": "創造一個每個人都能獲得心理健康資源並有能力尋求幫助的世界。我們相信社群、理解和專業護理在健康之旅中的力量。"
+    },
+    "values": {
+      "title": "我們的價值觀",
+      "compassion": "同情心和同理心",
+      "professional": "專業卓越",
+      "confidentiality": "保密和信任",
+      "inclusive": "包容和歡迎的環境"
+    },
+    "team": {
+      "title": "我們的團隊",
+      "content": "我們的團隊由持牌心理健康專業人士、諮詢師和熱衷於幫助他人的支持人員組成。我們匯集了不同的背景和專業知識，以更好地服務我們的社群。"
+    }
+  }
+}
